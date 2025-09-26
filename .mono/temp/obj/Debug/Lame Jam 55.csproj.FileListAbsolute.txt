@@ -1,0 +1,18 @@
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\bin\Debug\Lame Jam 55.dll
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\bin\Debug\Lame Jam 55.pdb
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.csproj.AssemblyReference.cache
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.AssemblyInfoInputs.cache
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.AssemblyInfo.cs
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.csproj.CoreCompileInputs.cache
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.dll
+C:\Users\storm\Downloads\Software Dev\GODOT\LameJam55\.mono\temp\obj\Debug\Lame Jam 55.pdb
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\bin\Debug\Lame Jam 55.dll
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\bin\Debug\Lame Jam 55.pdb
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.csproj.AssemblyReference.cache
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.AssemblyInfoInputs.cache
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.AssemblyInfo.cs
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.csproj.CoreCompileInputs.cache
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.dll
+C:\Users\Seniors\Downloads\godot\lamejam55\.mono\temp\obj\Debug\Lame Jam 55.pdb
